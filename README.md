@@ -1,4 +1,4 @@
-#PROJETOS E PESQUISAS
+PROJETOS E PESQUISAS
 
 SISTEMA DE AUTOMAÇÃO RESIDENCIAL (SAR) – Utilizando conceitos de IoT para o 
 desenvolvimento de um sistema controlado remotamente via wifi para controle de 
